@@ -80,7 +80,7 @@ class Travel:
         cityList = ['Mysore', 'Mandya','Chennapatna','Nanjangud','Bandipur','Nagarhole','Somnathpur','Bylakuppe']
         
         # This is src means source,you can not change your source
-        startPoint = str(input("Enter Your Source as Mysore only because this is Single Source Shortest Path, if you want to change the source go to: "))
+        startPoint = str(input("Enter Your Source as Mysore only: \n(because this is Single Source Shortest Path, \n if you want to change the source go to \n Tourist(tour,0) and change integer value): "))
         src = startPoint 
         print("Path \t\t\t Journey \t\t\t Distance from Source")
         for i in range(0, len(dist)) or cityList[i] < 8:
