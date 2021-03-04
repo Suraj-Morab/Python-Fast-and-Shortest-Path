@@ -88,10 +88,3 @@ print('-' * 80)
 
 
 
-# This code is for finding shorest path and distance
-# Technical Assignment Hence Proved. if any mistake or an error occured please let me know so I can Improve my skills.
-# Thanks for assigining the assignment.
-# Suraj N Morab
-# PH No : 7406800042
-
-
